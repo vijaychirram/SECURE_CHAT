@@ -26,8 +26,8 @@ A Python/Tkinter prototype for end‑to‑end encrypted point‑to‑point messa
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/secure-p2p-chat.git
-   cd secure-p2p-chat
+   git clone https://github.com/Vijaychirram/SECURE_CHAT.git
+   cd SECURE_CHAT
    ```
 
 2. **Create & activate a virtual environment**
